@@ -6,13 +6,13 @@
 
 /*----------------------------------------------------------------------------------------------------*\
 |*                                - Clawbot Single Joystick Control -                                 *|
-|*                                      ROBOTC on VEX 2.0 Cortex																			*|
-|*                                          By turnt ducky 																						*|
-|*																																																		*|
-|*  This program uses a single joystick, either right or left to drive the robot. The joystick				*|
-|*	buttons are used to raise and lower the arm. The joystick buttons are used to open and close			*|
-|*																							the claw.																							*|
-|*																																																		*|
+|*                                      ROBOTC on VEX 2.0 Cortex				      *|														*|
+|*                                          By turnt ducky 					      *|																*|
+|*												      *|																																				*|
+|*    This program uses a single joystick, either right or left to drive the robot. The joystick      *|
+|*   buttons are used to raise and lower the arm. The joystick buttons are used to open and close     *|
+|*						the claw.					      *|										the claw.																							*|
+|*												      *|																																					*|
 |*                                        ROBOT CONFIGURATION                                         *|
 |*                                                                                                    *|
 |*    MOTORS & SENSORS:                                                                               *|
